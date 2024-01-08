@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "brinley winley",
+  "avatar": "kHRaaAYuKenGufuaa",
+  "preferredColor": "rose",
+  "language": "python.3",
+  "game": "table-tennis",
+  "run": "python3 -u ./main.py"
+}
